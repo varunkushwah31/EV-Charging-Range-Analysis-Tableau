@@ -146,7 +146,7 @@ Tableau dashboards are embedded into a Flask web interface allowing users to int
 
 Example:
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](DashBoard.png)
 
 ---
 
