@@ -142,7 +142,6 @@ Tableau dashboards are embedded into a Flask web interface allowing users to int
 
 ## Dashboard Preview
 
-(Add screenshots of your dashboards here)
 
 Example:
 
