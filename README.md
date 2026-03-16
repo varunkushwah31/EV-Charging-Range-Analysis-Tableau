@@ -163,8 +163,3 @@ Example:
 This project is created for educational purposes under the SkillWallet Program.
 
 ---
-
-## Links
-
-Demo: Add your demo link here
-GitHub: This repository
